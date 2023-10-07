@@ -1,12 +1,12 @@
 ### Hi there, I'm Kruthina! 👋
 
-I'm an associate software developer at Nokia with a passion for full-stack development, DevOps, and data science. I graduated from Nitte Meenakshi Institute of Technology with a degree in Information Science. 
+I am Kruthina, an Associate Software Developer at Nokia, specializing in full-stack development, DevOps, and data science. I hold a degree in Information Science from Nitte Meenakshi Institute of Technology. Currently working on exciting projects at Nokia while continuously expanding my skill set. 
 
 - 🔭 Currently working on exciting projects at Nokia.
 - 🌱 Constantly learning and expanding my skill set.
 - 💡 Interested in design thinking and enjoy designing using Figma.
 - 💼 Interested in investing and personal finance.
-- ✈️ I love travelling and exploring new places.
+- ✈️  Love travelling and exploring new places.
 
 ### Languages and Tools:
 
@@ -33,8 +33,8 @@ I'm an associate software developer at Nokia with a passion for full-stack devel
 
 ### Connect with Me:
 
-- GitHub: [Kruthina](https://github.com/Kruthina)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/kruthina-u-5515a6239/)
+- GitHub: [Kruthina's Github](https://github.com/Kruthina)
+- LinkedIn: [Kruthina's LinkedIn](https://www.linkedin.com/in/kruthina-u-5515a6239/)
 - Email: [kruthina1129@gmail.com]
 
 Feel free to reach out and connect with me! 
