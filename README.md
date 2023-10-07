@@ -1,6 +1,6 @@
 ### Hi there, I'm Kruthina! 👋
 
-I am Kruthina, an Associate Software Developer at Nokia, specializing in full-stack development, DevOps, and data science. I hold a degree in Information Science from Nitte Meenakshi Institute of Technology. Currently working on exciting projects at Nokia while continuously expanding my skill set. 
+I am an Associate Software Developer at Nokia, specializing in full-stack development, DevOps, and data science. I hold a degree in Information Science from Nitte Meenakshi Institute of Technology. Currently working on exciting projects at Nokia while continuously expanding my skill set. 
 
 - 🔭 Currently working on exciting projects at Nokia.
 - 🌱 Constantly learning and expanding my skill set.
