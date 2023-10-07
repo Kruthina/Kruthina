@@ -3,6 +3,9 @@
          height="45"
          width="45" /> I'm Kruthina</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampawan&label=Views&color=blue&style=plastic&style=for-the-badge" alt="iampawan" /> </p>
+
+
 I am an Associate Software Developer at Nokia, specializing in full-stack development, DevOps, and data science. I hold a degree in Information Science from Nitte Meenakshi Institute of Technology. Currently working on exciting projects at Nokia while continuously expanding my skill set. 
 
 - 🔭 Currently working on exciting projects at Nokia.
