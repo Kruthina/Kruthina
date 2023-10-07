@@ -1,4 +1,7 @@
-### Hi there, I'm Kruthina! 👋
+<h1 align="center"> Hello, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" /> I'm Kruthina</h1>
 
 I am an Associate Software Developer at Nokia, specializing in full-stack development, DevOps, and data science. I hold a degree in Information Science from Nitte Meenakshi Institute of Technology. Currently working on exciting projects at Nokia while continuously expanding my skill set. 
 
