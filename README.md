@@ -17,6 +17,7 @@ I am an Associate Software Developer at Nokia, specializing in full-stack develo
 ### Languages and Tools:
 
 - Programming Languages: C, C++, Java, Python, JavaScript, R
+- DBMS: SQL, MongoDB
 - Data Visualization: Power BI
 - DevOps: Docker, Kubernetes
 - Designing: Figma
@@ -29,8 +30,9 @@ I am an Associate Software Developer at Nokia, specializing in full-stack develo
 - 💰 Personal Finance
 - ✈️ Traveling
 
-| <a href="https://github.com/Kruthina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Kruthina&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kruthina's github stats" /></a> | <a href="https://github.com/Kruthina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kruthina&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Kruthina&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kruthina's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kruthina&layout=compact&theme=buefy&hide_border=true" /> |
 | ------------- | ------------- |
+
 
 ### Connect with Me:
 
