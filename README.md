@@ -43,4 +43,9 @@ I am an Associate Software Developer at Nokia, specializing in full-stack develo
 
 Feel free to reach out and connect with me! 
 
+### ✍️Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
+
+---
+
 
