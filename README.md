@@ -4,7 +4,7 @@
 [![Github Follow](https://img.shields.io/github/followers/Kruthina?label=Follow%20Me&style=social)](https://github.com/Kruthina)
 
 
-I am an Associate Software Engineer at Nokia, specializing in full-stack development, DevOps, and data science. I hold a degree in Information Science from Nitte Meenakshi Institute of Technology. Currently working on exciting projects at Nokia while continuously expanding my skill set. 
+I am an Associate Software Engineer at Nokia, specializing in full-stack development, DevOps, and data science. Currently working on exciting projects at Nokia while continuously expanding my skill set. 
 
 - 🔭 Currently working on Dev ops projects at Nokia.
 - 🌱 Constantly learning and expanding my skill set.
