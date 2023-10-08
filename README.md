@@ -23,6 +23,10 @@ I am an Associate Software Developer at Nokia, specializing in full-stack develo
 - DevOps: Docker, Kubernetes
 - Designing: Figma
 
+### Operating System:
+
+- Linux and Windows
+
 ### Hobbies and Interests:
 
 - 📚 Reading
@@ -37,9 +41,8 @@ I am an Associate Software Developer at Nokia, specializing in full-stack develo
 
 ### Connect with Me:
 
-- GitHub: [Kruthina's Github](https://github.com/Kruthina)
-- LinkedIn: [Kruthina's LinkedIn](https://www.linkedin.com/in/kruthina-u-5515a6239/)
-- Email: [kruthina1129@gmail.com]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kruthina-u-5515a6239/) 
+
 
 ### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
