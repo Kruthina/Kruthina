@@ -29,13 +29,8 @@ I am an Associate Software Developer at Nokia, specializing in full-stack develo
 - 💰 Personal Finance
 - ✈️ Traveling
 
-### GitHub Stats:
-
-![Kruthina's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kruthina&show_icons=true&theme=radical)
-
-### Most Used Programming Languages:
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kruthina&layout=compact&theme=radical)
+| <a href="https://github.com/kruthina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kruthina&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Kruthina's github stats" /></a> | <a href="https://github.com/kruthina/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kruthina&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 
 ### Connect with Me:
 
