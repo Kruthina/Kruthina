@@ -41,11 +41,13 @@ I am an Associate Software Developer at Nokia, specializing in full-stack develo
 - LinkedIn: [Kruthina's LinkedIn](https://www.linkedin.com/in/kruthina-u-5515a6239/)
 - Email: [kruthina1129@gmail.com]
 
-Feel free to reach out and connect with me! 
-
-### ✍️Random Dev Quote
+### Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
+
+Feel free to reach out! 
+
+
 
 
