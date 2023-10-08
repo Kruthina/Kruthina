@@ -45,8 +45,11 @@ I am an Associate Software Developer at Nokia, specializing in full-stack develo
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=vue)
 
 ---
+<div align="center">
 
-Feel free to reach out! 
+### Feel free to reach out!
+
+</div>
 
 
 
