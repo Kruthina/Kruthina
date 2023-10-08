@@ -1,7 +1,4 @@
-<h1 align="center"> Hello there, <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
-         alt="Waving hand animated gif"
-         height="45"
-         width="45" /> I'm Kruthina</h1>
+<h1 align="center"> Hello there, I'm Kruthina :wave:	</h1>
 
 ![](https://komarev.com/ghpvc/?username=Kruthina)
 [![Github Follow](https://img.shields.io/github/followers/Kruthina?label=Follow%20Me&style=social)](https://github.com/Kruthina)
