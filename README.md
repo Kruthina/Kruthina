@@ -43,7 +43,7 @@ I am an Associate Software Engineer at Nokia, specializing in full-stack develop
 | ------------- | ------------- |
 
 
-### Connect with Me:
+### Connect Me:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kruthina-u-5515a6239/) [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kruthina) 
 
