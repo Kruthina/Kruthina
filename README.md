@@ -1,7 +1,7 @@
-<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Kruthina." src="./assets/gh-readme-header.png" /></a></p>
+<p align="center"><a href="https://Kruthina.github.io"><img width="80%" alt="Hello, I'm Kruthina." src="./assets/gh-readme-header.png" /></a></p>
 
 
-![](https://komarev.com/ghpvc/?username=kruthina)
+![](https://komarev.com/ghpvc/?username=Kruthina)
 
 
 I am an Associate Software Developer at Nokia, specializing in full-stack development, DevOps, and data science. I hold a degree in Information Science from Nitte Meenakshi Institute of Technology. Currently working on exciting projects at Nokia while continuously expanding my skill set. 
